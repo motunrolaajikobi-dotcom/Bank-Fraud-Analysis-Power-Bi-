@@ -1,9 +1,9 @@
 # Bank-Fraud-Analysis-Power-Bi
 ## Table of Contents
 - [Description](description)
-- [Business Problems](businessproblems)
+- [Businessproblems](businessproblems)
 - [Dashboards](dashboards)
-- [Key Analytical Findings](keyanalyticalfindings)
+- [Keyanalyticalfindings](keyanalyticalfindings)
 - [Recommendations](recommendations)
 - [Limitations](limitations)
   
